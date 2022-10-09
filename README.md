@@ -1,0 +1,2 @@
+# QuanLiDiem
+Student point management
